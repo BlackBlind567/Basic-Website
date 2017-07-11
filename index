@@ -1,0 +1,31 @@
+<h1>Majdoori Wala</h1>
+	</div>
+	<div>
+		<table>
+			<th><<a href="index.html">HOME</a></th>
+			<th>ABOUT US</th>
+			<<th><a href="ourservices.html">Our Services</a></th>
+			<th>CONTACT US</th>
+			<th>LOGIN</th>
+		</table>
+	</div>
+	<div id="Home-construction">
+		Image with Particular name and toggle
+	</div>
+	<div id="Plumbering">
+		Image with Particular name and toggle
+	</div>
+	<div id="Electric">
+		Image with Particular name and toggle
+	</div>
+	<div id="Carpentry">
+		Image with Particular name and toggle
+	</div>
+	<div id="Home-renovation">
+		Image with Particular name and toggle
+	</div>
+	<div id="Home-Security">
+		Image with Particular name and toggle
+	</div>
+</body>
+<footer id="bottom">isme kya likhu</footer>
