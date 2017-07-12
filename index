@@ -1,31 +1,96 @@
-<h1>Majdoori Wala</h1>
-	</div>
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="utf-8">
+	<title>MajdooriWala</title>
+	<style type="text/css">
+		#Home-construction,#Plumbering,#Electric,#Carpentry,#Home-renovation,#Home-Security{
+			                            	
+			height: 200px;
+			width: 173px;
+			margin-left: 132px;
+			margin-top: 160px;
+			float: left;
+			background-color: white;
+			text-align: center;
+		}
+		#bottom{
+			clear: both;
+		}
+	/*	#cd{
+			font-weight: 700;
+		}    */
+		body{
+			background-image: url(12.jpg);
+			background-size: cover;
+			
+			background-color: rgba(0, 0, 0, .3);
+			background-attachment: fixed;
+		}
+		h1{
+			text-align: center;
+			text-shadow: 5px, 5px, 2px,#cccccc;
+			font-size: 110pt;
+			color: #00b6ff;
+		}
+		#bar{
+			background-color: #00b6ff;
+		}
+		#smallbar{
+			margin-left: 116px;
+		}
+	</style>
+	
+</head>
+<body>
 	<div>
-		<table>
-			<th><<a href="index.html">HOME</a></th>
-			<th>ABOUT US</th>
-			<<th><a href="ourservices.html">Our Services</a></th>
-			<th>CONTACT US</th>
-			<th>LOGIN</th>
+		<h1>Majdoori Wala</h1>
+	</div>
+	<div id="bar">
+		<table id="smallbar">
+			<th id="b1">home</th>
+			<th ">our services</th>
+			<th id="b3">about us</th>
+			<th id="b4">contact us</th>
+			<th>login</th>
 		</table>
 	</div>
 	<div id="Home-construction">
-		Image with Particular name and toggle
+		<img src="ff.jpg" alt="Home-construction"  />
+		<caption id="cd">Home-construction</caption>
 	</div>
 	<div id="Plumbering">
-		Image with Particular name and toggle
+		<img src="ff.jpg" alt="Plumbering"  />
+		<caption id="cd">Plumbering</caption>
 	</div>
 	<div id="Electric">
-		Image with Particular name and toggle
+		<img src="ff.jpg" alt="Electric"  />
+		<caption id="cd">Electric</caption>
 	</div>
 	<div id="Carpentry">
-		Image with Particular name and toggle
+		<img src="ff.jpg" alt="Carpentry"  />
+		<caption id="cd">Carpentry</caption>
 	</div>
 	<div id="Home-renovation">
-		Image with Particular name and toggle
+		<img src="ff.jpg" alt="Home-renovation"  />
+		<caption id="cd">Home-renovation</caption>
 	</div>
 	<div id="Home-Security">
-		Image with Particular name and toggle
+		<img src="ff.jpg" alt="Home-Security"  />
+		<caption id="cd">Home-Security</caption>
 	</div>
-</body>
+	<div id="Home-construction">
+		<img src="ff.jpg" alt="Home-construction"  />
+		<caption id="cd">Home-construction</caption>
+	</div>
+	<div id="Home-construction">
+		<img src="ff.jpg" alt="Home-construction"  />
+		<caption id="cd">Home-construction</caption>
+	</div>
+	<div id="Home-construction">
+		<img src="ff.jpg" alt="Home-construction"  />
+		<caption id="cd">Home-construction</caption>
+	</div>
+	</body>
 <footer id="bottom">isme kya likhu</footer>
+</html>
